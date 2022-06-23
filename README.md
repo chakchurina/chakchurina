@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Maria @Chakchurina
 
-Python back-end dev with scientific background, educator, speaker and digital nomad
+Python back-end dev with scientific background, educator, jazz dancer and digital nomad
 
 <!---
 chakchurina/chakchurina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
